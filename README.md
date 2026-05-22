@@ -6,11 +6,11 @@ Bem-vindo(a) ao meu espaço de evolução na tecnologia! Sou estudante de Análi
 
 ## 🛠️ O que eu utilizo no meu dia a dia:
 
-- **Linguagens de Programação:** Java, SQL (Estruturando consultas eficientes), Python.
-- **Frameworks & Tecnologias:** Spring Boot (Construção de APIs REST), JPA / Hibernate.
-- **Bancos de Dados:** MySQL.
-- **Ferramentas de Desenvolvimento:** IntelliJ IDEA, Git e GitHub, VsCode e Android Studio.
-- **Sistemas operacionais:** Windows e Linux (Ubuntu)
+<div inline="javascript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Base" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
 ---
 
 ## 🚀 Projetos em Destaque
