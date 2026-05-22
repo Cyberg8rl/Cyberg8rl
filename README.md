@@ -6,12 +6,19 @@ Bem-vindo(a) ao meu espaço de evolução na tecnologia! Sou estudante de Análi
 
 ## 🛠️ O que eu utilizo no meu dia a dia:
 
-<div inline="javascript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Base" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL MySQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
----
+<p align="left">
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="65" height="65" style="margin-right: 15px;"/>
+  </a>
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="65" height="65" style="margin-right: 15px;"/>
+  </a>
+  
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin-right: 15px;"/>
+  </a>
+</p>
 
 ## 🚀 Projetos em Destaque
 
