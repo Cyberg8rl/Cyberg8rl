@@ -36,12 +36,6 @@ Programa em Python com regras de negócio para calcular valores de aluguel e ger
   <img alt="Git" src="https://img.shields.io/badge/Git-versionamento-F05032?logo=git&logoColor=white" />
 </p>
 
-## Próximos passos de estudo
-
-- Praticar consultas SQL para investigação de dados (SELECT, JOIN, filtros e agregações).
-- Melhorar a documentação dos projetos com instruções de execução e exemplos.
-- Aprofundar o entendimento de APIs, logs e análise de erros.
-
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/cec%C3%ADlia-sousa-833966342)
